@@ -1,6 +1,6 @@
 # MC-Experiment-AI
 
----Workspace Setup---
+--- Workspace Setup ---
 
 Use the following guide: http://techwiseacademy.com/minecraft-modding-setting-up-your-environment/
 
@@ -28,7 +28,7 @@ Framework used: https://github.com/michaelzangl/minebot/
 
 
 
---Author Notes--
+--- Author Notes ---
 
 Limited RAM with Forge extraction
 
