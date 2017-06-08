@@ -25,3 +25,19 @@ ________________________________________
 
 Framework used: https://github.com/michaelzangl/minebot/
 
+
+
+
+--Author Notes--
+
+Limited RAM with Forge extraction
+
+Increase virtual memory space - From Computer performance options
+
+Run with command: *gradlew -Dorg.gradle.jvmargs =-Xmx10240m setupDecompWorkspace*
+
+Edit gradlew file:
+*DEFAULT_JVM_OPTS = "Xmx2048m"
+
+
+
