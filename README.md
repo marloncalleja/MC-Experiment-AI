@@ -19,7 +19,7 @@ Type the following command in the cmd window:
 Next type the following command:
 *gradlew eclipse*
 
-A folder named 'src' should be available. Download 'main' content to replace existing.
+A folder named 'src' should be available, inside the folder, download 'main' and replace existing.
 
 ________________________________________
 
