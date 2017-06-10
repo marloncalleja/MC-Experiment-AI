@@ -27,11 +27,11 @@ Test bot commands
 
 Enter the following commands in the game chat window:
 
-*/minebot getfood
+/minebot getfood
 
-*/minebot getwool
+/minebot getwool
 
-*/minebot getfuel
+/minebot getfuel
 
 Framework used to build prototype: https://github.com/michaelzangl/minebot/
 
