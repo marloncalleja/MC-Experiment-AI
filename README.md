@@ -21,12 +21,17 @@ Next type the following command:
 
 A folder named 'src' should be available, inside the folder, download 'main' and replace existing.
 
-________________________________________
+
+Test bot commands:
+Enter the following commands in the game chat window.
+/minebot getfood
+/minebot getwool
+/minebot getfuel
+
 
 Framework used: https://github.com/michaelzangl/minebot/
 
-
-
+________________________________________
 
 --- Author Notes ---
 
