@@ -21,7 +21,7 @@ Next type the following command:
 
 *gradlew eclipse*
 
-A folder named 'src' should be available, inside the folder, download 'main' and replace existing.
+Inside the 'src' folder (Found at extraction location), download 'main' and replace with existing content.
 
 ___________________________________________
 
