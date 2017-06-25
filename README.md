@@ -50,5 +50,11 @@ Run with command: *gradlew -Dorg.gradle.jvmargs =-Xmx10240m setupDecompWorkspace
 Edit gradlew file:
 *DEFAULT_JVM_OPTS = "Xmx2048m"
 
+________________________________________
+
+Prototype video:
+
+https://youtu.be/OfVk3JW8-ZI
+
 
 
