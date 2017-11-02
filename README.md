@@ -43,7 +43,7 @@ ________________________________________
 
 Limited RAM with Forge extraction
 
-Increase virtual memory space - From Computer performance options
+Increase virtual memory space - Computer performance options
 
 Run with command: *gradlew -Dorg.gradle.jvmargs =-Xmx10240m setupDecompWorkspace*
 
