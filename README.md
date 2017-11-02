@@ -52,9 +52,10 @@ Edit gradlew file:
 
 ________________________________________
 
-Prototype video:
+Prototype videos:
 
-https://youtu.be/OfVk3JW8-ZI
+Vid No.1   https://youtu.be/nof9Si2_FH4
+Vid No.2   https://youtu.be/OfVk3JW8-ZI
 
 
 
