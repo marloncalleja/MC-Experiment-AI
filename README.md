@@ -23,6 +23,8 @@ Next type the following command:
 
 Inside the 'src' folder (Found at extraction location), download 'main' and replace with existing content.
 
+Further project details can be found inside the attached write-up (PDF file).
+
 ___________________________________________
 
 Test bot commands
